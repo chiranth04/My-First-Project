@@ -1,0 +1,1 @@
+public class HSFE_CustomException extends Exception{}
