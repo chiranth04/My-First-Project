@@ -1,7 +1,7 @@
 /* NOT A "PRODUCTION QUALITY" class!
 
 This is mainly used to try out writing the dynamic Apex to fetch addresses according to Olympus' data model.
-Final version will be developed in "ELTON extension" package.
+Final versions will be developed in "ELTON extension" package.
 */
 public with sharing class ELTON_OrderSetAddress{
 
